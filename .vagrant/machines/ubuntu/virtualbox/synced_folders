@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www":{"guestpath":"/var/www","hostpath":"/home/byhours/Documentos/git","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/byhours/vagrant_dev/ubuntu","disabled":false}}}
